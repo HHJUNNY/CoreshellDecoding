@@ -1,0 +1,8 @@
+input prefix
+pschip_flat-faced_
+well count in a picture
+2
+well diameter pixel
+340
+code list
+A1 B2
